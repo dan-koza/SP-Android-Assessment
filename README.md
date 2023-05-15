@@ -1,7 +1,8 @@
 # Welcome to the Superpedestrian Android Technical Assessment!
 
 ## What we will provide you
- - This template project that provides you sample JSON and a movie model
+ - This template project. 
+ 	- This project provides you sample JSON and a movie model
  - The provided movie model contains basic information about a movie. Things like title, list of actors, plot description, url to a movie poster, year of release, etc.
  - At the time of the interview, we will provide you a document that details the UI element we would like you to build
 
