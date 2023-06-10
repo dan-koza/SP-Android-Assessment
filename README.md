@@ -19,7 +19,6 @@
 	 - At the time of our meeting let us know what you changed and why!
  - This is an open book assessment
 	 - During the exercise feel free to use google or any kind of documentation
-		 - every developer uses google 😉
 
 ## During the exercise
  - Think out loud!
